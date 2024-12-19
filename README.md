@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+![Screenshot 2024-12-19 204221](https://github.com/user-attachments/assets/244156a7-5aca-4252-8013-fe0fcaac607d)# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 13/12/24
 
@@ -46,7 +46,8 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
-![WhatsApp Image 2024-12-17 at 09 39 00_fb020486](https://github.com/user-attachments/assets/ed88578a-9921-4105-9af8-9c727dffe99f)
+
+![Screenshot 2024-12-19 204221](https://github.com/user-attachments/assets/afb3811b-d171-41ce-b0d1-9e32bbfeb26d)
 
 ### Name: pothu sumanth
 ### Register Number: 24000831
