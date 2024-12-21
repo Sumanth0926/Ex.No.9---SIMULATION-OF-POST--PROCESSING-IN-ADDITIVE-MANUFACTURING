@@ -47,7 +47,8 @@
 
 ## Output:
 
-![Screenshot 2024-12-19 204221](https://github.com/user-attachments/assets/afb3811b-d171-41ce-b0d1-9e32bbfeb26d)
+![Screenshot 2024-12-21 133848](https://github.com/user-attachments/assets/45712db8-5177-4634-9311-6c9a456d9f16)
+
 
 ### Name: pothu sumanth
 ### Register Number: 24000831
