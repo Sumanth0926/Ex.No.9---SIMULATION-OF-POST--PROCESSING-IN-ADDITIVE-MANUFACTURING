@@ -47,7 +47,8 @@
 
 ## Output:
 
-![Screenshot 2024-12-21 133848](https://github.com/user-attachments/assets/45712db8-5177-4634-9311-6c9a456d9f16)
+![Screenshot 2024-12-27 234035](https://github.com/user-attachments/assets/6e1f7304-e140-47f9-940a-028371dfd78b)
+
 
 
 ### Name: pothu sumanth
