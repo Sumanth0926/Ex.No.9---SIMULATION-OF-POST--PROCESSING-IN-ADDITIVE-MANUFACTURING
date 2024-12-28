@@ -32,24 +32,23 @@
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT :
+![Screenshot 2024-12-23 111011](https://github.com/user-attachments/assets/e0b5bf04-cdd8-4994-b046-dda8de5ce16d)
 
-## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2024-12-23 111023](https://github.com/user-attachments/assets/96723bc3-cbc5-4cde-8085-60f6b05ffbc6)
 
-## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2024-12-23 111034](https://github.com/user-attachments/assets/73b6c706-59e8-430b-8736-e03ff91fd93b)
 
-## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2024-12-23 111044](https://github.com/user-attachments/assets/c3451a60-f6cf-41da-86fb-535604f1cfd8)
 
-## Output:
+![Screenshot 2024-12-23 111059](https://github.com/user-attachments/assets/41660d19-67bd-442d-8f9a-aa85fe8bd483)
 
-![Screenshot 2024-12-27 234035](https://github.com/user-attachments/assets/6e1f7304-e140-47f9-940a-028371dfd78b)
+![Screenshot 2024-12-23 111113](https://github.com/user-attachments/assets/f60c68eb-f128-47d4-926c-90878ce269fb))
 
+![WhatsApp Image 2024-12-18 at 11 42 04_a6d32af8](https://github.com/user-attachments/assets/212db4a9-56c9-46fe-ae71-64873997bca1)
 
+![WhatsApp Image 2024-12-18 at 11 43 47_f8d6d6b6](https://github.com/user-attachments/assets/82e9a97a-6964-447a-9d47-4b3c3caad16b)
+
+![WhatsApp Image 2024-12-18 at 11 43 58_1d6af67e](https://github.com/user-attachments/assets/c87d7d63-2026-4aa7-9117-404dd560e010)
 
 ### Name: pothu sumanth
 ### Register Number: 24000831
